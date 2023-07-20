@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mirko</h1>
-<h3 align="center">A passionate Front-end Web Dev from Italy</h3>
+<h3 align="center">A passionate Front-End Web Dev from Italy</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js and SASS**
 <h3 align="left">Connect with me:</h3>
