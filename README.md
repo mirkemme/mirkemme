@@ -1,5 +1,5 @@
 <h1 align="center">Hi, I'm Mirko</h1>
-<hr />
+
 <h3 align="center">A passionate Front-End Web Dev from Italy</h3>
 
 - 🌱 I’m currently learning **HTML, CSS, JavaScript, React.js and SASS**
@@ -16,5 +16,6 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="40" height="40"/> </a> </p>
 
+<hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkemme&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="mirkemme" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirkemme&theme=dark" alt="mirkemme" /></p>
