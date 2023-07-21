@@ -15,7 +15,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="40" height="40"/> </a>
 <a href="https://www.nextjs.org" target="_blank" rel="noreferrer">
-<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" fill="#121212" title="Next.js" width="40" height="40"/> </a>
+<img src="[https://cdn.worldvectorlogo.com/logos/nextjs-2.svg](https://raw.githubusercontent.com/github/explore/28b02bbc9ad9f7a503c43775aebeb515dc2da5fc/topics/nextjs/nextjs.png)" alt="nextjs" fill="#121212" title="Next.js" width="40" height="40"/> </a>
 </p>
 
 <hr />
