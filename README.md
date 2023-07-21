@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mirko</h1>
 
 <h3 align="center">A passionate Front-End Web Dev from Italy</h3>
-<p align="center">I’m currently learning **HTML, CSS, JavaScript, React.js and SASS**</p>
+<p align="center">I’m currently learning <strong>JavaScript, React.js, Next.js, SASS, HTML, CSS</strong></p>
 <hr />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
