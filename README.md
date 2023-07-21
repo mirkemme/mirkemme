@@ -13,7 +13,10 @@
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" title="Vite" width="40" height="40"/> </a>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="SASS" width="40" height="40"/> </a>
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> </a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="40" height="40"/> </a> </p>
+<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="40" height="40"/> </a>
+<a href="https://www.nextjs.org)" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/nextjs-2.svg" alt="nextjs" width="40" height="40"/> </a>
+</p>
 
 <hr />
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkemme&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="mirkemme" /></p>
