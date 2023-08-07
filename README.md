@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mirko</h1>
 
 <h3 align="center">A passionate Front-End Web Dev from Italy</h3>
-<p align="center">I’m currently learning <strong>JavaScript, React.js, Next.js, SASS, HTML, CSS</strong></p>
+<p align="center">I recently finished a front-end web development coding bootcamp. My skills are<strong>JavaScript, React.js, Next.js, SASS,Git, React Router, Firebase, HTML5, CSS3</strong></p>
 <hr />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
