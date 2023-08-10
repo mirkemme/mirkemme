@@ -1,7 +1,9 @@
 <h1 align="center">Hi, I'm Mirko</h1>
 
-<h3 align="center">A passionate Front-End Web Dev from Italy</h3>
-<p align="center">I recently finished a front-end web development coding bootcamp. My skills are <strong>JavaScript, React.js, Next.js, SASS,Git, React Router, Firebase, HTML5, CSS3</strong></p>
+<h3 align="center">A passionate Front-End Web Dev from Palermo, Italy</h3>
+<p align="center">I recently finished a front-end web development coding bootcamp. My skills are <strong>JavaScript, React.js, Next.js, SASS, Git, HTML5, CSS3, React Router, Firebase, NPM, Node.js, Figma.</strong></p>
+<p>I have a Bachelor's degree in Computer Science at University of Palermo. During my undergraduate studies i also studied C and OOP with C++ and Java.</p>
+<p>In my profile you will find my works and the projects I have collaborated on.</p>
 <hr />
 <h3 align="center">Connect with me:</h3>
 <p align="center">
