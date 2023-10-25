@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Mirko</h1>
 
 <h3 align="center">A passionate Front-End Web Dev from Palermo, Italy</h3>
-<p align="center">I recently finished a front-end web development coding bootcamp. My skills are <strong>JavaScript, React.js, Next.js, SASS, Git, HTML5, CSS3, React Router, Firebase, NPM, Node.js, Figma.</strong></p>
+<p align="center">I recently finished a front-end web development coding bootcamp. My skills are <strong>JavaScript, TypeScript, React.js, Next.js, SASS, Git, HTML5, CSS3, React Router, Firebase, NPM, Node.js, Figma.</strong></p>
 <p align="center">I have a Bachelor's degree in Computer Science at University of Palermo. During my undergraduate studies i also studied C and OOP with C++ and Java.</p>
 <p align="center">In my profile you will find my portfolio and the projects I have collaborated on.</p>
 <hr />
@@ -24,6 +24,7 @@
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/> </a> 
 <a href="https://isocpp.org/" target="_blank" rel="noreferrer"> <img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c++" title="C++" width="40" height="40"/> </a>
 <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java.svg" alt="java" title="Java" width="40" height="40"/> </a>
+<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/npm/logos/cc343d8c50139f645d165aedfe4d375240599fd1/npm%20logo/classic/npm-2009.svg" alt="npm" title="NPM" width="40" height="40"/> </a>
 <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="40" height="40"/> </a>
 </p>
 
