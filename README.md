@@ -13,18 +13,18 @@
 <h3 align="center">Languages and Tools:</h3>
 <p align="center">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" title="JavaScript" width="40" height="40"/> </a>
-<a href="https://www.typescriptlang.org" target="_blank" rel="noreferrer"><img src="https://github.com/remojansen/logo.ts/blob/master/ts.png?raw=true" alt="typescript" title="TypeScript" width="40" height="40"/> </a>
-<a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="45" height="45"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="45" height="45"/> </a>
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React.js" width="40" height="40"/> </a>
-<a href="https://www.nextjs.org" target="_blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="nextjs" title="Next.js" width="40" height="40"/></a>
-  <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
-<a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" title="Vite" width="40" height="40"/></a>  
+<a href="https://www.typescriptlang.org" target="blank" rel="noreferrer"><img src="https://github.com/remojansen/logo.ts/blob/master/ts.png?raw=true" alt="typescript" title="TypeScript" width="40" height="40"/> </a>
+<a href="https://www.w3schools.com/css/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" title="CSS3" width="45" height="45"/> </a> <a href="https://www.w3.org/html/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" title="HTML5" width="45" height="45"/> </a>
+<a href="https://reactjs.org/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React.js" width="40" height="40"/> </a>
+<a href="https://www.nextjs.org" target="blank" rel="noreferrer"><img src="https://camo.githubusercontent.com/e1e113df83e7731fdb90f6f0ab2eeb155fd1b48c27d99814dcf1c23c0acdc6a2/68747470733a2f2f6173736574732e76657263656c2e636f6d2f696d6167652f75706c6f61642f76313636323133303535392f6e6578746a732f49636f6e5f6461726b5f6261636b67726f756e642e706e67" alt="nextjs" title="Next.js" width="40" height="40"/></a>
+  <a href="https://sass-lang.com" target="blank" rel="noreferrer">
+<a href="https://vitejs.dev/" target="blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" title="Vite" width="40" height="40"/></a>  
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" title="SASS" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/></a> 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c++" title="C++" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java.svg" alt="java" title="Java" width="40" height="40"/></a>
-<a href="https://www.npmjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/npm/logos/cc343d8c50139f645d165aedfe4d375240599fd1/npm%20logo/classic/npm-2009.svg" alt="npm" title="NPM" width="40" height="40"/></a>
-<a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="40" height="40"/></a>
+<a href="https://www.cprogramming.com/" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/></a> 
+<a href="https://isocpp.org/" target="blank" rel="noreferrer"><img src="https://github.com/isocpp/logos/blob/master/cpp_logo.svg" alt="c++" title="C++" width="40" height="40"/></a>
+<a href="https://www.java.com" target="blank" rel="noreferrer"><img src="https://github.com/abrahamcalf/programming-languages-logos/blob/master/src/java/java.svg" alt="java" title="Java" width="40" height="40"/></a>
+<a href="https://www.npmjs.com" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/npm/logos/cc343d8c50139f645d165aedfe4d375240599fd1/npm%20logo/classic/npm-2009.svg" alt="npm" title="NPM" width="40" height="40"/></a>
+<a href="https://www.photoshop.com/en" target="blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" title="Photoshop" width="40" height="40"/></a>
 </p>
 
 <hr />
