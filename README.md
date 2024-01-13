@@ -17,7 +17,9 @@
 <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css3" title="CSS3" width="40" height="40"/></a>
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html5" title="HTML5" width="40" height="40"/></a>
 <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" title="React.js" width="40" height="40"/></a>
-<a href="https://www.nextjs.org" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="nextjs" title="Next.js" width="40" height="40" style="filter: invert(100%);"/></a>
+<a href="https://www.nextjs.org" target="_blank" rel="noreferrer"><svg class="white-icon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" width="40" height="40" fill="#ffffff">
+<path d="M32 2C16.6 2 4 14.6 4 30s12.6 28 28 28 28-12.6 28-28S47.4 2 32 2zm0 54c-14.4 0-26-11.6-26-26S17.6 4 32 4s26 11.6 26 26-11.6 26-26 26zM27.7 23.9c0-1.4-1.2-2.5-2.6-2.5s-2.6 1.1-2.6 2.5 1.2 2.5 2.6 2.5c.7 0 1.3-.3 1.8-.7.1-.1.2-.2.3-.3.2-.3.3-.7.3-1.2zM32 36.6v5.8H17v-12h7.2c.2 0 .4.1.5.3l7 8.4 1.4-1.4-7.8-9.3c-.2-.2-.5-.3-.7-.3H17c-.3 0-.5.2-.5.5s.2.5.5.5h6.5v11.1L32 36.6z"/>
+</svg></a>
 <a href="https://sass-lang.com" target="_blank" rel="noreferrer"><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" alt="sass" title="SASS" width="40" height="40"/></a>
 <a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/f/f1/Vitejs-logo.svg" alt="vite" title="Vite" width="40" height="40"/></a>  
 <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" title="C" width="40" height="40"/></a> 
