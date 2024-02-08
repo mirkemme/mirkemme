@@ -1,8 +1,9 @@
 <h1 align="center">Hi, I'm Mirko</h1>
 
-<h3 align="center">A passionate Front-End Web Dev from Palermo, Italy</h3>
+<h3 align="center">A passionate Full-Stack Web Dev from Palermo, Italy</h3>
 <p align="center">I recently finished a front-end web development coding bootcamp. My skills are <strong>JavaScript, TypeScript, React.js, Next.js, SASS, Git, HTML5, CSS3, React Router, Firebase, NPM, Node.js, Figma.</strong></p>
 <p align="center">I have a Bachelor's degree in Computer Science at University of Palermo. During my undergraduate studies i also studied C and OOP with C++ and Java.</p>
+<p align="center">Now I hold the position of Software Developer at AITHO, where I am involved in developing Digital Banking and Digital Financial Services applications. The technologies I am using include Java, Spring, Spring Boot and MySQL.</p>
 <p align="center">In my profile you will find my portfolio and the projects I have collaborated on.</p>
 <hr />
 <h3 align="center">Connect with me:</h3>
