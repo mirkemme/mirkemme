@@ -30,6 +30,8 @@
 </p>
 
 <hr />
-<p><img align="center" src="[https://github-readme-stats.vercel.app/api/top-langs?username=mirkemme&show_icons=true&theme=cobalt&locale=en&layout=compact](https://github-profile-trophy.vercel.app/?username=mirkemme&theme=tokyonight)" alt="mirkemme" /></p>
+<a href="https://github.com/ryo-ma/github-profile-trophy">
+<img width="800" src="[https://camo.githubusercontent.com/de5d813ddb6c63c5377e89d01cc4ce4d23f48cec1d2664ebbfb43c09cf897d74/68747470733a2f2f6769746875622d70726f66696c652d74726f7068792e76657263656c2e6170702f3f757365726e616d653d72796f2d6d6126636f6c756d6e3d39267468656d653d67727576626f78266e6f2d6672616d653d7472756](https://github-profile-trophy.vercel.app/?username=mirkemme&theme=onedark)5" data-canonical-src="https://github-profile-trophy.vercel.app/?username=mirkemme&amp;column=9&amp;theme=gruvbox&amp;no-frame=true" style="max-width: 100%;">
+</a>
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkemme&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="mirkemme" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirkemme&theme=dark" alt="mirkemme" /></p>
