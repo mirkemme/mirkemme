@@ -30,9 +30,7 @@
 </p>
 
 <hr />
-<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=mirkemme&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="mirkemme" /></p>
-<div>
-<p align="left"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkemme&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="mirkemme" /></p>
-<p align="right"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirkemme&theme=dark" alt="mirkemme" /></p>
-</div>
+<p><img src="https://github-profile-trophy.vercel.app/?username=mirkemme&theme=tokyonight&rank=SECRET,SSS,SS,S,AAA,AA,A,B,C" alt="mirkemme" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=mirkemme&show_icons=true&theme=cobalt&locale=en&layout=compact" alt="mirkemme" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mirkemme&theme=dark" alt="mirkemme" /></p>
 
